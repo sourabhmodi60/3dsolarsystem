@@ -1,0 +1,6 @@
+{
+  "name": "CosmoKids: 3D Solar System Explorer",
+  "description": "An interactive 3D solar system educational explorer for kids with realistic planets, orbiting moons, independent orbital motion, and voice narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
